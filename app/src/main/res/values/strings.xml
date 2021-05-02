@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather by Location</string>
+
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_error_message">Smth went wrong, please try again, %1$s</string>
+    <string name="dialog_error_button">Retry</string>
+    <string name="toast_permission_granted">"Permission granted"</string>
+    <string name="toast_permission_denied">"Permission denied"</string>
+</resources>
